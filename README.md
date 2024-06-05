@@ -1,4 +1,4 @@
-## Front-end Developer Recruitment Task
+## An app that allows searching for a GitHub user and displays some basic stats about their repositories.
 
 ### Requirements
 
